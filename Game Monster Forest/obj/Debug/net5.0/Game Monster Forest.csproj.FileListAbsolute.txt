@@ -1,0 +1,16 @@
+D:\SchoolCourses\AEC_2022_Winter\c#\week5\lab\GameMonsterForest\Game Monster Forest\Game Monster Forest\bin\Debug\net5.0\Game Monster Forest.exe
+D:\SchoolCourses\AEC_2022_Winter\c#\week5\lab\GameMonsterForest\Game Monster Forest\Game Monster Forest\bin\Debug\net5.0\Game Monster Forest.deps.json
+D:\SchoolCourses\AEC_2022_Winter\c#\week5\lab\GameMonsterForest\Game Monster Forest\Game Monster Forest\bin\Debug\net5.0\Game Monster Forest.runtimeconfig.json
+D:\SchoolCourses\AEC_2022_Winter\c#\week5\lab\GameMonsterForest\Game Monster Forest\Game Monster Forest\bin\Debug\net5.0\Game Monster Forest.runtimeconfig.dev.json
+D:\SchoolCourses\AEC_2022_Winter\c#\week5\lab\GameMonsterForest\Game Monster Forest\Game Monster Forest\bin\Debug\net5.0\Game Monster Forest.dll
+D:\SchoolCourses\AEC_2022_Winter\c#\week5\lab\GameMonsterForest\Game Monster Forest\Game Monster Forest\bin\Debug\net5.0\Game Monster Forest.pdb
+D:\SchoolCourses\AEC_2022_Winter\c#\week5\lab\GameMonsterForest\Game Monster Forest\Game Monster Forest\obj\Debug\net5.0\Game Monster Forest.csproj.AssemblyReference.cache
+D:\SchoolCourses\AEC_2022_Winter\c#\week5\lab\GameMonsterForest\Game Monster Forest\Game Monster Forest\obj\Debug\net5.0\Game Monster Forest.GeneratedMSBuildEditorConfig.editorconfig
+D:\SchoolCourses\AEC_2022_Winter\c#\week5\lab\GameMonsterForest\Game Monster Forest\Game Monster Forest\obj\Debug\net5.0\Game Monster Forest.AssemblyInfoInputs.cache
+D:\SchoolCourses\AEC_2022_Winter\c#\week5\lab\GameMonsterForest\Game Monster Forest\Game Monster Forest\obj\Debug\net5.0\Game Monster Forest.AssemblyInfo.cs
+D:\SchoolCourses\AEC_2022_Winter\c#\week5\lab\GameMonsterForest\Game Monster Forest\Game Monster Forest\obj\Debug\net5.0\Game Monster Forest.csproj.CoreCompileInputs.cache
+D:\SchoolCourses\AEC_2022_Winter\c#\week5\lab\GameMonsterForest\Game Monster Forest\Game Monster Forest\obj\Debug\net5.0\Game Monster Forest.dll
+D:\SchoolCourses\AEC_2022_Winter\c#\week5\lab\GameMonsterForest\Game Monster Forest\Game Monster Forest\obj\Debug\net5.0\ref\Game Monster Forest.dll
+D:\SchoolCourses\AEC_2022_Winter\c#\week5\lab\GameMonsterForest\Game Monster Forest\Game Monster Forest\obj\Debug\net5.0\Game Monster Forest.pdb
+D:\SchoolCourses\AEC_2022_Winter\c#\week5\lab\GameMonsterForest\Game Monster Forest\Game Monster Forest\obj\Debug\net5.0\Game Monster Forest.genruntimeconfig.cache
+D:\SchoolCourses\AEC_2022_Winter\c#\week5\lab\GameMonsterForest\Game Monster Forest\Game Monster Forest\obj\Debug\net5.0\refint\Game Monster Forest.dll
