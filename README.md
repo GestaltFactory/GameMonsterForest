@@ -23,3 +23,8 @@ Made For:
     Illustrating basic game logic
 
     Showcasing fundamental OOP principles in a game context
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GestaltFactory/GameMonsterForest/main/01.PNG" width="45%">
+  <img src="https://raw.githubusercontent.com/GestaltFactory/GameMonsterForest/main/02.PNG" width="45%">
+</p>
